@@ -1,3 +1,7 @@
 test1!
 add test2!
+<<<<<<< HEAD
 add test4!
+=======
+add test3!
+>>>>>>> 3c4707cbabc7890bdfe1f64cb67f8fbe47307b33
